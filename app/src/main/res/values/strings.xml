@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecipyApp</string>
+    <string name="recipiesName">Recipe Name</string>
+</resources>
